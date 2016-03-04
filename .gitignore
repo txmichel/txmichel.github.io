@@ -1,0 +1,28 @@
+# Jekyll
+# ------
+_site/
+.jekyll-metadata
+# HTMLProofer
+tmp/
+# Sass
+.sass-cache/
+
+
+# VIM
+# ---
+# swap
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+# session
+Session.vim
+# temporary
+.netrwhist
+*~
+# auto-generated tag files
+tags
+
+
+# Ruby
+# ----
+# GEM
+Gemfile.lock

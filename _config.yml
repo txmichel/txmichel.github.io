@@ -1,0 +1,23 @@
+# Site settings
+title: ActWise
+tagline: A minimalistic blog
+email: thomas@actwise.de
+description: > # this means to ignore newlines until "baseurl"
+   A minimalistic blog about topics I care or I want to share - My fith chakra so to say...
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://txmichel.github.io" # the base hostname & protocol for your site
+#paginate: 5
+#paginate-path: "/blog/page:num/"
+twitter_username: h0lz0hr
+github_username: txmichel 
+timezone: Europe/Brussels
+safe: true # github-pages compiles jekyll sites with "--safe" flag.
+future: true
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+
+# Gems
+#gems: [github-pages,jekyll-paginate]
+gems: [github-pages]
