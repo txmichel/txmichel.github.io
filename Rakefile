@@ -1,4 +1,4 @@
-require 'html/proofer'
+require 'html-proofer'
 
 # Build
 desc 'Build for deployment (but do not deploy).'
