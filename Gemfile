@@ -9,6 +9,4 @@ gem 'github-pages', versions['github-pages']
 
 gem 'rake'
 
-group :test do
-  gem 'html-proofer'
-end
+gem 'html-proofer'
