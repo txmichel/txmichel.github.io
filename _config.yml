@@ -16,7 +16,7 @@ future: true
 
 # Build settings
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge 
 
 # Gems
 #gems: [github-pages,jekyll-paginate]
